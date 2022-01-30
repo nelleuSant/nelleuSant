@@ -29,3 +29,11 @@
   <img align="center" alt="Suellen-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Suellen-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
 </div>
+  
+  ##
+  
+  ### Badges Cybersecurity 🖥️
+ <div>
+   <a href="https://www.credly.com/badges/5534aff8-fbfd-4df1-9912-a1bc4332aa57/public_url"><img alt="Badge" height="60" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png"></a>
+   <a href="https://www.credly.com/badges/649c0aa6-7a41-4466-9d9f-cc503bb0afef/public_url"><img alt="Badge" height="60" src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png"></a>
+  </div>
