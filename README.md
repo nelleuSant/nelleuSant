@@ -1,12 +1,11 @@
-<div align="center">
-<h1>Hi 👋, I'm Suellen</h1>
-<h3>A business student and passionate about data analysis and machine learning from Brazil.</h3>
-<img height="200px" src=https://media.giphy.com/media/9dGIYGEDr8k4lJh7ge/giphy.gif align="center">
-</div>
 
-- 🌱 I’m currently learning **Data Analysis with Python and Data Visualization with Power BI**
+<h1 align="center">Hi 👋, I'm Suellen</h1>
+<h3 align = "center">A business student and passionate about data analysis and machine learning from Brazil.</h3>
+<img align="right" height="300px" src=https://media.giphy.com/media/9dGIYGEDr8k4lJh7ge/giphy.gif align="center">
+<br>
 
-- 📫 How to reach me **suellensantiagodesouza@gmail.com**
+🌱 I’m currently learning **Data Analysis with Python and Data Visualization with Power BI**<br>
+📫 How to reach me **suellensantiagodesouza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +28,11 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
+<table align="center" width=100%>
+  <tr>
+    <td><img height = 220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelleuSant&show_icons=true&theme=dracula" alt="nelleusant" /></td>
+    <td><img height = 220 src="https://github-readme-stats.vercel.app/api?username=nelleuSant&show_icons=true&theme=dracula" alt="nelleusant"/></td>
+  </tr>
+</table>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelleuSant&show_icons=true&theme=dracula" alt="nelleusant" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=nelleuSant&show_icons=true&theme=dracula" alt="nelleusant"/></p>
 
