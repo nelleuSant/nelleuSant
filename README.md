@@ -1,56 +1,38 @@
-```console
-suellen@github ~ $ neofetch
+```bash
+#!/bin/bash
+# Initializing user profile...
 
-USER         : Suellen Santiago
-HANDLE       : nelleuSant
-FOCUS        : Cybersecurity
-BACKGROUND   : Data Engineering · BI
+USER="Suellen Santiago"
+ROLE="Cybersecurity | Data Engineering"
+CURRENT_FOCUS="Segurança da Informação & Threat Intelligence"
+BACKGROUND="Python, SQL, Data Engineering & BI"
+EDUCATION="ADS — Análise e Desenvolvimento de Sistemas"
 
-STATUS       : ● ACTIVE
+echo "[+] Acesso concedido."
+echo "[+] Carregando perfil profissional..."
 
+profile() {
+    echo "-> Desenvolvendo experiência prática em Segurança da Informação."
+    echo "-> Unindo engenharia de dados, infraestrutura e segurança."
+    echo "-> Aprendendo através de laboratórios, experimentação e documentação."
+}
 
-suellen@github ~ $ cat ~/focus
+profile
 
-Cybersecurity
-Threat Intelligence
-Security Infrastructure
-Pentesting & Red Team
+if [ -d "$HOME/pentest-homelab" ]; then
+    echo "[+] Projeto atual: Pentest & Red Team Home Lab"
+    echo "    KVM/QEMU | Proxmox | VLANs | Firewalls | Docker"
+fi
 
+echo ""
+echo "[*] Core skills:"
+echo "    Linux | Networking | Python | SQL | Git | Docker"
+echo "    Data Engineering | Power BI | Microsoft Fabric | Power Platform"
 
-suellen@github ~ $ ls ~/skills
+echo ""
+echo "[*] Interesse profissional em Cibersegurança e Segurança de Infraestrutura""
 
-Security     : Linux · Networking · Pentesting
-               Virtualization · Threat Intelligence
-
-Development  : Python · SQL · Git · Docker
-
-Data         : Data Engineering · Power BI
-               Microsoft Fabric
-
-
-suellen@github ~ $ ls ~/projects
-
-pentest-homelab/
-
-suellen@github ~ $ cat ~/projects/pentest-homelab
-
-Pentest & Red Team Home Lab
-
-Controlled environment for studying
-cybersecurity, networking and infrastructure.
-
-Stack:
-KVM/QEMU · Proxmox · VLANs · Firewall · Docker
-
-Status: active
-
-
-suellen@github ~ $ cat ~/mindset
-
-Learn → Build → Break → Investigate → Document
-
-
-suellen@github ~ $ echo $CONTACT
-
-suellensantiagodesouza@gmail.com
+echo ""
+echo "[+] Contato: suellensantiagodesouza@gmail.com"
+echo "[+] Linkedin: suellen-santiago"
 ```
